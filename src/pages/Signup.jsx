@@ -80,7 +80,7 @@ const Signup = () => {
         password: '',
       });
     
-      // Show success message
+      
       setSuccessMessage('Admin registered successfully!');
     
       // Optional: Auto-hide success message
